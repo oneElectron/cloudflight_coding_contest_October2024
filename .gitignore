@@ -1,0 +1,8 @@
+__pycache__
+.venv/
+
+out_*/
+level*/**
+!level*/.gitkeep
+
+.DS_Store
